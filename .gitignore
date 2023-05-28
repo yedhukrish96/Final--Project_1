@@ -1,0 +1,9 @@
+final_df_forml.csv
+kaggle_cleaned.csv
+kiva_cleaned.csv
+kiva_eda.csv
+kiva_loans.csv
+kiva_webscrape.csv
+encoder.pkl
+knn_model.pkl
+scaler.pkl
