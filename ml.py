@@ -6,7 +6,7 @@ import pickle
 
 
 def ml():
-    data = pd.read_csv("final_df_forml.csv")
+    data = pd.read_csv("data_for_ml.csv")
     with open("scaler.pkl", "rb") as f:
         transformer = pickle.load(f)
     with open("encoder.pkl", "rb") as f:
